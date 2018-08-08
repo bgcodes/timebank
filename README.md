@@ -2,11 +2,11 @@
 (Java) Student's project about using time as currency
 
 1. Requires:
-* node 6.0+
-* yarn
+* Node 6.0+
+* Yarn
 * MySQL database (script included in main folder of project) 
-* correct configuration in file: *backend/src/main/resources/application.properties*
+* Correct configuration in file: *backend/src/main/resources/application.properties*
 
-2. To launch u need to run main method in TimeBankManagerApplication class.
+2. To launch an application You need to run main method in TimeBankManagerApplication class.
 
 3. Application will start on 3000 port.
