@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# gradle
+.gradle
+build
+
+.DS_Store
+
+backend/**/out/
